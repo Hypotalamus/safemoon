@@ -1,0 +1,6 @@
+radcad
+jupyter
+scipy
+pandas
+plotly
+filterpy
